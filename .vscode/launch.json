@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app1_hello",
+            "cwd": "App1_Hello\\app1_hello",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app1_hello (profile mode)",
+            "cwd": "App1_Hello\\app1_hello",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app1_hello (release mode)",
+            "cwd": "App1_Hello\\app1_hello",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app3_multiplica",
+            "cwd": "App3_Multiplica\\app3_multiplica",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app3_multiplica (profile mode)",
+            "cwd": "App3_Multiplica\\app3_multiplica",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app3_multiplica (release mode)",
+            "cwd": "App3_Multiplica\\app3_multiplica",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app4_gasolina",
+            "cwd": "App4_Gasolina\\app4_gasolina",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app4_gasolina (profile mode)",
+            "cwd": "App4_Gasolina\\app4_gasolina",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app4_gasolina (release mode)",
+            "cwd": "App4_Gasolina\\app4_gasolina",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app05_imc",
+            "cwd": "App5_IMC\\app05_imc",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app05_imc (profile mode)",
+            "cwd": "App5_IMC\\app05_imc",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app05_imc (release mode)",
+            "cwd": "App5_IMC\\app05_imc",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
